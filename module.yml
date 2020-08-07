@@ -1,0 +1,11 @@
+name: snack
+version: 0.4.0
+description: 'A command line tool that hands out tasty snacks.'
+author: 'Dan Bradham'
+email: 'danielbradham@gmail.com'
+requires: []
+environment:
+  PATH:
+    - $MODULE/bin
+  PYTHONPATH:
+    - $MODULE/lib
